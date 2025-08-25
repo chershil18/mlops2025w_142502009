@@ -1,1 +1,8 @@
 line 1
+HEAD
+line 2
+line 3
+line 4
+line 5
+git add test.txt
+6cbd51a (update)
