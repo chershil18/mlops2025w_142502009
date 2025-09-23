@@ -1,0 +1,24 @@
+[defaults]
+epochs = 10
+batch_size = 32
+num_classes = 1000
+
+[resnet34]
+learning_rate = 0.01
+optimizer = "sgd"
+momentum = 0.9
+
+[resnet50]
+learning_rate = 0.001
+optimizer = "adam"
+momentum = 0.0
+
+[resnet101]
+learning_rate = 0.0005
+optimizer = "adam"
+momentum = 0.0
+
+[resnet152]
+learning_rate = 0.0001
+optimizer = "adam"
+momentum = 0.0

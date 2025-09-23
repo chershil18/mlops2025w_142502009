@@ -1,0 +1,12 @@
+[project]
+name = "resnet_pipeline"
+version = "0.1.0"
+description = "ML pipeline with ResNet and grid search"
+authors = ["Chershil <142502009@smail.iitpk.ac.in>"]
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "pillow==11.3.0",
+    "toml==0.10.2",
+    "torch==2.8.0",
+    "torchvision==0.23.0",
+]

@@ -1,0 +1,13 @@
+{
+  "data": {
+    "type": "image_folder",
+    "path": "data/images",
+    "batch_size": 16,
+    "num_workers": 4
+  },
+  "model": {
+    "name": "resnet50",
+    "num_classes": 1000,
+    "pretrained": true
+  }
+}
