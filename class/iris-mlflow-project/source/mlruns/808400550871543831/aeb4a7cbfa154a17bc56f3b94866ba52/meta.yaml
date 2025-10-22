@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kalpanapullagura/Documents/mlops2025w_142502009/class/iris-mlflow-project/source/mlruns/808400550871543831/aeb4a7cbfa154a17bc56f3b94866ba52/artifacts
+end_time: 1761155352136
+entry_point_name: ''
+experiment_id: '808400550871543831'
+lifecycle_stage: active
+run_id: aeb4a7cbfa154a17bc56f3b94866ba52
+run_name: Random Forest RF_4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761155350484
+status: 3
+tags: []
+user_id: kalpanapullagura

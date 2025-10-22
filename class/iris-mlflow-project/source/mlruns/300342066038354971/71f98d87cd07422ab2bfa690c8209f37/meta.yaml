@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kalpanapullagura/Documents/mlops2025w_142502009/class/iris-mlflow-project/source/mlruns/300342066038354971/71f98d87cd07422ab2bfa690c8209f37/artifacts
+end_time: 1761154592594
+entry_point_name: ''
+experiment_id: '300342066038354971'
+lifecycle_stage: active
+run_id: 71f98d87cd07422ab2bfa690c8209f37
+run_name: polite-rat-944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761154592486
+status: 4
+tags: []
+user_id: kalpanapullagura

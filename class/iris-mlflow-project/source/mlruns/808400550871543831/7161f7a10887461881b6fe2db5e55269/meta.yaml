@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kalpanapullagura/Documents/mlops2025w_142502009/class/iris-mlflow-project/source/mlruns/808400550871543831/7161f7a10887461881b6fe2db5e55269/artifacts
+end_time: 1761154094490
+entry_point_name: ''
+experiment_id: '808400550871543831'
+lifecycle_stage: active
+run_id: 7161f7a10887461881b6fe2db5e55269
+run_name: RF_estimators_100_depth_5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761154092808
+status: 3
+tags: []
+user_id: kalpanapullagura

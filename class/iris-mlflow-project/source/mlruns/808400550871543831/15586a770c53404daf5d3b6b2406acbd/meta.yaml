@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kalpanapullagura/Documents/mlops2025w_142502009/class/iris-mlflow-project/source/mlruns/808400550871543831/15586a770c53404daf5d3b6b2406acbd/artifacts
+end_time: 1761155353747
+entry_point_name: ''
+experiment_id: '808400550871543831'
+lifecycle_stage: active
+run_id: 15586a770c53404daf5d3b6b2406acbd
+run_name: Logistic Regression LR_1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761155352137
+status: 3
+tags: []
+user_id: kalpanapullagura

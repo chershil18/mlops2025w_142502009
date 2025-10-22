@@ -1,0 +1,10 @@
+artifact_location: file:///Users/kalpanapullagura/Documents/mlops2025w_142502009/class/iris-mlflow-project/source/mlruns/808400550871543831/models/m-a1136509c3d44dd4a3b31dcc742c037e/artifacts
+creation_timestamp: 1761155085350
+experiment_id: '808400550871543831'
+last_updated_timestamp: 1761155086869
+model_id: m-a1136509c3d44dd4a3b31dcc742c037e
+model_type: null
+name: model
+source_run_id: 6074fba8ab8049109f60d81b3d75e70f
+status: 2
+status_message: null

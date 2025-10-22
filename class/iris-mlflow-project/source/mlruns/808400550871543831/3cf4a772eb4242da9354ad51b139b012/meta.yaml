@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kalpanapullagura/Documents/mlops2025w_142502009/class/iris-mlflow-project/source/mlruns/808400550871543831/3cf4a772eb4242da9354ad51b139b012/artifacts
+end_time: 1761154102636
+entry_point_name: ''
+experiment_id: '808400550871543831'
+lifecycle_stage: active
+run_id: 3cf4a772eb4242da9354ad51b139b012
+run_name: Hyperparameter Tuning Session
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761154088865
+status: 3
+tags: []
+user_id: kalpanapullagura

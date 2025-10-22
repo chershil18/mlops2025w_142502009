@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kalpanapullagura/Documents/mlops2025w_142502009/class/iris-mlflow-project/source/mlruns/808400550871543831/006091a8f52a44d6940190a8c26c47bf/artifacts
+end_time: 1761154475794
+entry_point_name: ''
+experiment_id: '808400550871543831'
+lifecycle_stage: active
+run_id: 006091a8f52a44d6940190a8c26c47bf
+run_name: LR_C_1.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761154474370
+status: 3
+tags: []
+user_id: kalpanapullagura
